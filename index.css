@@ -1,0 +1,204 @@
+
+body{
+    background: rgb(255,200,224);
+    background: linear-gradient(90deg, rgba(255,200,224,1) 0%,   rgba(200,222,247,1) 96%);
+    
+}
+.name{
+   
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 200%;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    font-weight: bold;
+    
+}    
+
+.foto{
+    width: 200px;
+    height: 250px;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.ug{
+    width: 200px;
+    height: 250px;
+     border-radius:100%;
+}
+
+
+
+h3{
+    background-color: rgb(255, 238, 164);
+    padding:  3px 20px 3px 20px;
+    margin: 3px;
+    width: 97%;
+    height: 50px;
+    font-size: 300%;
+    text-align: center;
+    box-shadow:10px  15px rgb(109, 131, 109);
+    border-width: 5px 5px 2px 5px;
+    border-style: solid solid ridge solid;
+    border-color: gray;
+    color: gray;
+    
+    
+}
+.pd{
+    background-color: rgb(240, 240, 111);
+    padding: 10px 15px 40px 25px ;
+    margin: 10px;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: rgb(102, 209, 87);
+    box-shadow: 10px  15px rgb(109, 131, 109);
+}
+.salam{
+    padding:  5px 40px 5px 100px;
+    max-width: 100%;
+    max-height:100%;
+    font-size: 25px;
+    text-align: center;
+    line-height: 50px;
+    font-family: 'Patrick Hand', cursive;
+    color: rgb(59, 59, 59) ;
+
+}
+
+.pe{
+    background-color: rgb(240, 240, 111);
+    padding: 15px 15px 40px 25px ;
+    margin-left: 500px;
+    width: 200px;
+    height: 20px;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: rgb(102, 209, 87);
+    box-shadow: 10px  15px rgb(109, 131, 109);
+
+    
+}    
+    
+
+.table{
+   
+    padding:  20px 20px 20px 250px;
+    margin-left: 500px;
+    max-width: 39%;
+    max-height: 500px;
+    font-size: 20px;
+    line-height: 100px;
+    background-color: var(--warna1);
+    text-align: center;
+    
+ 
+}
+
+.eks{
+    background-color: rgb(240, 240, 111);
+    padding: 15px 15px 40px 25px ;
+    margin-left: 600px;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: rgb(102, 209, 87);
+    box-shadow: 10px  15px rgb(109, 131, 109);
+}
+
+
+
+.sosmed{
+    
+    padding:  40px 30px 40px 30px;
+    margin:  5px 10px;
+    max-width: 50%;
+    max-height: 300px;
+    font-size: 30px;
+    line-height: 40px;
+    font-family: 'Stint Ultra Condensed', cursive;
+    background-color: var(--warna3);
+    color: wheat;
+
+}
+
+.po{
+    
+    padding:  5px 20px 20px 10px;
+    margin-left: 10px;
+    max-width: 50%;
+    max-height: 200px;
+    line-height: 50px;
+    font-size: 25px;
+    font-family: 'Averia Serif Libre', cursive;
+    background-color: var(--warna2);
+    color: rgb(253, 235, 203);
+}
+
+.pr{
+    
+    background-color: rgb(240, 240, 111);
+    padding: 15px 15px 40px 25px ;
+    margin-left: 500px;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: rgb(102, 209, 87);
+    box-shadow: 10px  15px rgb(109, 131, 109);
+
+}
+
+.juara{
+    padding:  10px 20px 20px 20px;
+    margin-left: 500px;
+    max-width: 50%;
+    max-height: 200px;
+    font-size: 25px;
+    line-height: 50px;
+    background-color: var(--warna3);
+    font-family: 'Averia Serif Libre', cursive;
+    color:rgb(253, 223, 167)
+}
+
+.in{ 
+    background-color: rgb(255, 238, 164);
+    padding:  3px 20px 3px 20px;
+    margin: 3px;
+    width: 97%;
+    height: 50px;
+    font-size: 300%;
+    text-align: center;
+    color: rgb(102, 209, 87);
+
+}
+
+.tabel1{
+    width: 100%;
+    height: 200px;
+    font-size: 25px;
+    font-family: 'Barlow Condensed', sans-serif;
+
+
+}
+
+:root{
+    --warna1: rgb(206, 149, 206);
+    --warna2: rgb(224, 165, 224);
+    --warna3: rgb(185, 147, 185);
+    --warna4: rgb(185, 147, 185);
+}
+
+
+
+
+
+
+
